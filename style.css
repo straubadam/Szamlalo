@@ -1,55 +1,14 @@
 .container {
-    width: 80%;
+    width: 800px;
     margin: auto;
-    display: flex;
 }
 
-.vilagoskekfejlec {
-    width: 80%;
-    padding: 0;
-    margin: auto;
+button {
+    background-color: whitesmoke;
+    border: 1px;
+    border-radius: 5px;
     border-style: solid;
-    1px;
-    height: 120px;
-    margin-top: 10px;
+    
 }
 
-.narancsbal {
-    display: flex;
-    order: 2;
-    border-style: solid;
-    1px;
-    height: 500px;
-    flex-grow: 2;
-    margin-right: 20px;
-}
 
-.pirosfokepernyo {
-    order: 3;
-    border-style: solid;
-    1px;
-    height: 500px;
-    flex-grow: 3;
-    margin-right: 20px;
-}
-
-.lilajobb {
-    display: flex;
-    order: 4;
-    border-style: solid;
-    1px;
-    height: 500px;
-    flex-grow: 1;
-}
-
-.keklablec {
-    width: 80%;
-    margin: auto;
-    border-style: solid;
-    1px;
-    height: 120px;
-}
-
-#elsogomb, #masodikgomb, #harmadikgomb {
-    background-color: lightgray;
-}
